@@ -16,7 +16,6 @@ public:
         
             numMap[num] = i;
             i++;
-
         }
         return {};
     }
